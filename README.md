@@ -4,8 +4,9 @@ The fabled IT guy who isn't allergic to code.
 
 You should visit [my website](http://cartt.one/)!
 
-Discord: cartt0nn
+Discord: carsmizzle
 
+Views are my own.
 ---
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cart0nn" alt="Carson's GitHub Stats" />
